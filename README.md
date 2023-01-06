@@ -9,7 +9,7 @@ I love trying out new technologies, so you'll find a bit of everything here. Tec
 * ☕ Java + JavaFX
 * 🤖 Arduino (C++)
 * 🎯 PCB Designs
-* 🌱 Python, PHP, and other misc. stuff
+* 🌱 Python, PHP, memes, and more!
 
 Take a look around and fork anything you find interesting! 🎉
 
