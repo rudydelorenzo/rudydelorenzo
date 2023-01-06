@@ -8,7 +8,7 @@ I love trying out new technologies, so you'll find a bit of everything here. Tec
 * ⚙️ JavaScript CLI apps
 * ☕ Java + JavaFX
 * 🤖 Arduino (C++)
-* 💾 PCB Designs
+* 🎯 PCB Designs
 * 🌱 Python, PHP, and other misc. stuff
 
 Take a look around and fork anything you find interesting! 🎉
