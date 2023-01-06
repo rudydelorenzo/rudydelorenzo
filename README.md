@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi! 👋
+
+I'm Rudy, a BSc student at U of A, full-time software engg, and part-time README writer 📝
+
+I love trying out new technologies, so you'll find a bit of everything here. Technologies you can expect to find include:
+
+* ⚛️ nodeJS + React full stack apps
+* ⚙️ JavaScript CLI apps
+* ☕ Java + JavaFX
+* 🤖 Arduino (C++)
+* 💾 PCB Designs
+* 🌱 Python, PHP, and other misc. stuff
+
+Take a look around and fork anything you find interesting! 🎉
 
 <!--
 **rudydelorenzo/rudydelorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
