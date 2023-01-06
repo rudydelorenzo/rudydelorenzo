@@ -1,6 +1,6 @@
-### Hi! 👋
+### Hi! I'm Rudy 👋
 
-I'm Rudy, a BSc student at U of A, full-time software engg, and part-time README writer 📝
+I'm a BSc student at U of A, full-time software engg, and part-time README writer 📝
 
 I love trying out new technologies, so you'll find a bit of everything here. Technologies you can expect to find include:
 
