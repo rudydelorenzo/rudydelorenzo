@@ -5,7 +5,7 @@ I'm a BSc student at U of A, full-time software engg, and part-time README write
 I love trying out new technologies, so you'll find a bit of everything here. Technologies you can expect to find include:
 
 * ⚛️ nodeJS + React full stack apps
-* ⚙️ JavaScript CLI apps
+* ⚙️ JavaScript CLI & Desktop apps
 * ☕ Java + JavaFX
 * 🤖 Arduino (C++)
 * 🎯 PCB Designs
