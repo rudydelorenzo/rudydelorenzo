@@ -1,6 +1,6 @@
 ### Hi! I'm Rudy 👋
 
-I'm a BSc student at U of A, full-time software engg, and part-time README writer 📝
+I'm a swe with a BSc in Computer Science from the University of Alberta 📜
 
 I love trying out new technologies, so you'll find a bit of everything here:
 
